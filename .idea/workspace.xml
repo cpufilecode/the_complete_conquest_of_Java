@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8257d1d0-896f-404e-931d-5127974fe570" name="변경" comment="upload">
-      <change afterPath="$PROJECT_DIR$/src/ch02/FloatVsDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/NamingVariableAndConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/RangeOfVariableUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/PrimaryDataType_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +168,39 @@
       <option name="project" value="LOCAL" />
       <updated>1697378536531</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="upload">
+      <option name="closed" value="true" />
+      <created>1697380292060</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697380292060</updated>
+    </task>
+    <task id="LOCAL-00015" summary="upload">
+      <option name="closed" value="true" />
+      <created>1697380294244</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697380294244</updated>
+    </task>
+    <task id="LOCAL-00016" summary="upload">
+      <option name="closed" value="true" />
+      <created>1697380296168</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697380296168</updated>
+    </task>
+    <task id="LOCAL-00017" summary="upload">
+      <option name="closed" value="true" />
+      <created>1697380299399</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1697380299399</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
