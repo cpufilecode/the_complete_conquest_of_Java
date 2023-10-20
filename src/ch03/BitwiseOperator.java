@@ -19,6 +19,11 @@ public class BitwiseOperator {
         System.out.println(0x0D);
         System.out.println();
 
+        System.out.println(3 & 10);
+        System.out.println(0b0011 * 0b1010);
+        System.out.println(0x03 & 0x0A);
+        System.out.println();
+
 
     }
 }
