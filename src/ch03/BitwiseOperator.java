@@ -10,7 +10,7 @@ public class BitwiseOperator {
 
         System.out.println(Integer.parseInt("1101",2));
         System.out.println(Integer.parseInt("15",8));
-        System.out.println(Integer.parseInt("00",16));
+        System.out.println(Integer.parseInt("0D",16));
         System.out.println();
 
         System.out.println(13);
@@ -34,6 +34,8 @@ public class BitwiseOperator {
         System.out.println(0x03 ^ 0x0A);
         System.out.println();
 
-
+        System.out.println(~3);
+        System.out.println(~0b0011);
+        System.out.println(~0x03);
     }
 }
