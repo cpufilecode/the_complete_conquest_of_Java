@@ -13,6 +13,12 @@ public class BitwiseOperator {
         System.out.println(Integer.parseInt("00",16));
         System.out.println();
 
+        System.out.println(13);
+        System.out.println(0b1101);
+        System.out.println(015);
+        System.out.println(0x0D);
+        System.out.println();
+
 
     }
 }
