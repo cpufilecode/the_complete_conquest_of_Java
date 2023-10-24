@@ -32,6 +32,20 @@ public class LogicalOperator {
         System.out.println((5<=5) | !(7>2));
         System.out.println();
 
+        int value1 = 3;
+        System.out.println(false && ++value1 > 6);
+        System.out.println(value1);
 
+        int value2 = 3;
+        System.out.println(false & ++value2 > 6);
+        System.out.println(value2);
+
+        int value3 = 3;
+        System.out.println(true || ++value3 > 6);
+        System.out.println(value3);
+
+        int value4 = 3;
+        System.out.println(true | ++value4 > 6);
+        System.out.println(value4);
     }
 }
